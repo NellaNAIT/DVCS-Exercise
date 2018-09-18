@@ -378,6 +378,11 @@
     <Compile Include="Contact.aspx.designer.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
     </Compile>
+    <Compile Include="DDL\Artist.cs" />
+    <Compile Include="DDL\Customer.cs" />
+    <Compile Include="DDL\Employee.cs" />
+    <Compile Include="DDL\Invoice.cs" />
+    <Compile Include="DDL\MediaType.cs" />
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
